@@ -66,4 +66,8 @@ echo Your DNS is now as fresh as an alien encounter.
 echo.
 pause
 ```
+-------
 
+# LICENSE
+
+[MIT LICENSE](https://github.com/KernFerm/custom-dns-batch/blob/main/LICENSE)
