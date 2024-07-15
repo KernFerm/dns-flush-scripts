@@ -70,7 +70,7 @@ pause
 
 # LICENSE
 
-[MIT LICENSE](https://github.com/KernFerm/custom-dns-batch/blob/main/LICENSE)
+[MIT_LICENSE](https://github.com/KernFerm/custom-dns-batch/blob/main/LICENSE)
 
 # CODE OF CONDUCT
 
