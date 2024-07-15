@@ -2,6 +2,10 @@
 
 # Must sign off on all projects 
 
+# CODE OF CONDUCT
+
+[COD_OF_CONDUCT](https://github.com/KernFerm/custom-dns-batch/blob/main/CODE_OF_CONDUCT.md)
+
 **Thanks**
 - Bubbles The Dev 
 
