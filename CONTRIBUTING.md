@@ -2,8 +2,8 @@
 
 # Must sign off on all projects 
 
-thanks
-bubbles the dev 
+**Thanks**
+- Bubbles The Dev 
 
 ```batch
 @echo off
