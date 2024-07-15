@@ -1,4 +1,9 @@
-if you want to contribute you `MUST` follow this example below 
+# If you want to contribute you `MUST` follow this example below 
+
+# Must sign off on all projects 
+
+thanks
+bubbles the dev 
 
 
 @echo off
