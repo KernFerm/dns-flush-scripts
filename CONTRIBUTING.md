@@ -5,7 +5,7 @@
 thanks
 bubbles the dev 
 
-
+```batch
 @echo off
 
 REM Check for administrative privileges  
@@ -27,3 +27,4 @@ echo "ADD A CUSTOM MESSAGE"
 echo "ADD A CUSTOM MESSAGE"
 echo.
 pause
+```
