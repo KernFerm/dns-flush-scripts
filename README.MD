@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 # 🚀 DNS Flush Scripts
 
 Welcome to the **DNS Flush Scripts** repository! Here you'll find a collection of **humorous** and **themed batch scripts** designed to **flush the DNS cache** on **Windows systems** 🪟. These scripts are useful for clearing DNS-related issues and ensuring smooth network operations 🌐.
